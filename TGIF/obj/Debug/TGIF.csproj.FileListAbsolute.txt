@@ -1,0 +1,13 @@
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.csprojAssemblyReference.cache
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.MainForm.resources
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.InputInterface.resources
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.Properties.Resources.resources
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.TwoInfoInput.resources
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.csproj.GenerateResource.cache
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.csproj.CoreCompileInputs.cache
+C:\Users\start\Source\Repos\TGIF\TGIF\bin\Debug\TGIF.exe.config
+C:\Users\start\Source\Repos\TGIF\TGIF\bin\Debug\TGIF.exe
+C:\Users\start\Source\Repos\TGIF\TGIF\bin\Debug\TGIF.pdb
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.exe
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.pdb
+C:\Users\start\Source\Repos\TGIF\TGIF\obj\Debug\TGIF.TaskButton.resources
